@@ -1,0 +1,13 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+          {
+            "type": "module",
+            "name": "mb-bluetooth",
+            "class": "io.dcloud.uniplugin.BluetoothModule"
+          }
+        ]
+    }
+  ]
+}
